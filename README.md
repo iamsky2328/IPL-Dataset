@@ -21,7 +21,7 @@ Utilized Tableau to analyze CSV data from the Indian Premier League (IPL), with 
 * Visualized match outcomes and key trends to identify factors influencing game results.
 * Integrated contextual data such as venue analysis and player statistics to provide comprehensive insights.
 
-Impact:
+**Impact:**
 * Empowered stakeholders with actionable insights to optimize team composition and match strategies.
 * Enhanced decision-making capabilities by providing clear and relevant visualizations.
 * Facilitated a deeper understanding of IPL dynamics, leading to more informed strategic planning and execution.
